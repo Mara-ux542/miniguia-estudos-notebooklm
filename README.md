@@ -58,13 +58,3 @@ Aqui estão os principais testes realizados com prompts e os aprendizados:
 
 ---
 
-## 🚀 Como Entregar na DIO
-1. Crie este repositório no GitHub.  
-2. Estruture o README.md com os itens acima.  
-3. Copie a URL principal do repositório.  
-4. Vá até a página do desafio na DIO e clique em **Entregar Projeto**.  
-5. Cole o link, adicione uma descrição bacana e confirme a entrega.  
-
----
-
-✨ **Dica:** Use emojis e títulos claros para deixar seu projeto mais atrativo e mostrar cuidado com a apresentação.
